@@ -73,3 +73,12 @@ B. Option 2: Use regular expressions.
 6. Verified the table creation by running a SELECT statement for each table. The SELECT statement required the table name to be encompassed in double quotes, for example, Select * from "Campaign". 
 7. Imported each CSV file into its corresponding SQL table.
 8. Verified that each table has the correct data by running a SELECT statement for each.
+
+   ![image](https://github.com/arunavenkatachalam/CrowdFunding_ETL/assets/142273069/af88d0e9-a74f-4255-8842-6cd17e44541d)
+   ![image](https://github.com/arunavenkatachalam/CrowdFunding_ETL/assets/142273069/90f21d65-9bb2-4ef4-a7de-3d91cc04be2f)
+   ![image](https://github.com/arunavenkatachalam/CrowdFunding_ETL/assets/142273069/3d64794c-730b-4576-8009-eb6a99fac2d9)
+   ![image](https://github.com/arunavenkatachalam/CrowdFunding_ETL/assets/142273069/e7ca063d-8956-468f-8251-71a6bf43d973)
+
+
+
+
