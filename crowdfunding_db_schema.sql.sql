@@ -61,3 +61,6 @@ REFERENCES "Category" ("category_id");
 ALTER TABLE "Campaign" ADD CONSTRAINT "fk_Campaign_subcategory_id" FOREIGN KEY("subcategory_id")
 REFERENCES "Subcategory" ("subcategory_id");
 
+git rm crowdfunding_db_schema.sql.sql
+git commit -m "remove crowdfunding_db_schema.sql"
+
