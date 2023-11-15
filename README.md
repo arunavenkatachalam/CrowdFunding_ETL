@@ -1,8 +1,8 @@
 # CrowdFunding_ETL
  
-#Collaborators: Aruna Venkatachalam & Arshdeep Khurana
+Collaborators: Aruna Venkatachalam & Arshdeep Khurana
 
-****#Created the Category and Subcategory DataFrames****
+****Created the Category and Subcategory DataFrames****
 
 #Extracted and transformed the crowdfunding.xlsx Excel data to create a category DataFrame with the following columns:
 
