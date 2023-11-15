@@ -45,23 +45,23 @@ Both of the following methods were carried out to extract and transform the data
 
 A. Option 1: Use Python dictionary methods.
 
- 1.Imported the contacts.xlsx file into a DataFrame.
- 2.Iterated through the DataFrame, converting each row to a dictionary.
- 3.Iterated through each dictionary, doing the following:
-     Extracted the dictionary values from the keys by using a Python list comprehension.
-     Added the values for each row to a new list.
-     Created a new DataFrame containing the extracted data.
-     Split each "name" column value into a first and last name, and placed each in a new column.
-     Cleaned and exported the DataFrame as contacts.csv and saved it to the GitHub repository.
+    1.Imported the contacts.xlsx file into a DataFrame.
+    2.Iterated through the DataFrame, converting each row to a dictionary.
+    3.Iterated through each dictionary, doing the following:
+       Extracted the dictionary values from the keys by using a Python list comprehension.
+       Added the values for each row to a new list.
+       Created a new DataFrame containing the extracted data.
+       Split each "name" column value into a first and last name, and placed each in a new column.
+       Cleaned and exported the DataFrame as contacts.csv and saved it to the GitHub repository.
 
 B. Option 2: Use regular expressions.
 
- 1.Imported the contacts.xlsx file into a DataFrame.
- 2.Extracted the "contact_id", "name", and "email" columns by using regular expressions.
- 3.Created a new DataFrame with the extracted data.
- 4.Converted the "contact_id" column to the integer type.
- 5.Split each "name" column value into a first and a last name, and placed each in a new column.
- 6.Cleaned and then exported the DataFrame as contacts_Regex.csv and saved to the GitHub repository.
+    1.Imported the contacts.xlsx file into a DataFrame.
+    2.Extracted the "contact_id", "name", and "email" columns by using regular expressions.
+    3.Created a new DataFrame with the extracted data.
+    4.Converted the "contact_id" column to the integer type.
+    5.Split each "name" column value into a first and a last name, and placed each in a new column.
+    6.Cleaned and then exported the DataFrame as contacts_Regex.csv and saved to the GitHub repository.
 
 **Create the Crowdfunding Database**
 
